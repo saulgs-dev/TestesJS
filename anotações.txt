@@ -1,0 +1,8 @@
+/*
+
+nomeDaVariavel.innerHTML += incrementar um valor ao html da pagina
+const form = document.querySelector('.form');
+seletor de dados pra futuro tratamento de dados recebidos através dos
+formularios da pagina preenchidos pelo usuario;
+
+*/
